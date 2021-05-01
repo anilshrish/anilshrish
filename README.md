@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anil</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
-- 🌱 I’m currently learning **Python** - 💬 Ask me about **linux, AWS, Docker** - 📫 How to reach me **anil.shrish@gmail.com** - 📄 Know about my experiences [https://www.linkedin.com/in/anilshrish/](https://www.linkedin.com/in/anilshrish/)
+
+- 🌱 I’m currently learning **Python**
+
+- 💬 Ask me about **linux, AWS, Docker**
+
+- 📫 How to reach me **anil.shrish@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/anilshrish/](https://www.linkedin.com/in/anilshrish/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/anilshrish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anilshrish" height="30" width="40" /></a>
